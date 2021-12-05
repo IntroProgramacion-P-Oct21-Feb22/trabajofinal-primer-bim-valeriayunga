@@ -76,7 +76,7 @@ public class Problem03 {
                 }
             }
         }
-System.out.printf("Al empleado %s de tipo %d se le debe pagar: %.2f"
+System.out.printf("Al empleado %s de tipo %d se le debe pagar: %.2f\n"
         ,nombre, tipo,valorTotal);
     }
 
