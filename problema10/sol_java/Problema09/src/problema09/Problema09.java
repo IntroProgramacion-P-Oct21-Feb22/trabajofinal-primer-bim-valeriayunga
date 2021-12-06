@@ -19,17 +19,18 @@ public class Problema09 {
        int limite = 44;
        int numero1 = 12;
        int numero2 = 11;
-      
+       int contador1 = 0;
+       int contador2 = 0;
        int suma = 1;
        String cadena = "S1 = ";
        
        do {
+         contador1= contador1 +1;
+         contador2= contador2 +1;
+         numero1 = numero1*contador1;
+         numero2 = numero2*contador2;
          
-        
-         
-       cadena = String.format("%s + %d - %d  ",cadena,numero1, numero2);
-        numero1 = numero1 + numero1;
-         numero2 = numero2+numero2;
+       cadena = String.format("%s%d - %d + ",cadena,numero1, numero2);
        
        suma = numero1 + numero2;
         
