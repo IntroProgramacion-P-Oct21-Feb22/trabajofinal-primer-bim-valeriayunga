@@ -2,11 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33ef0982-8d28-4780-9014-30c81882a96f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../problema09/sol_python/Pregunta09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sol_python/Problema10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.demo" beforeDir="false" afterPath="$PROJECT_DIR$/../problema06/sol_python/Problema06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sol_java/.demo" beforeDir="false" afterPath="$PROJECT_DIR$/../problema07/sol_python/Problema07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sol_python/.demo" beforeDir="false" afterPath="$PROJECT_DIR$/../problema08/sol_python/Problema08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sol_java/Problema09/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sol_java/Problema09/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sol_java/Problema09/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sol_java/Problema09/build/classes/problema09/Problema09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sol_java/Problema09/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sol_java/Problema09/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sol_java/Problema09/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sol_java/Problema09/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sol_java/Problema09/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sol_java/Problema09/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sol_java/Problema09/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sol_java/Problema09/src/problema09/Problema09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sol_python/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sol_python/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sol_python/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sol_python/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sol_python/.idea/sol_python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sol_python/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sol_python/Problema10.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1638820806277</updated>
       <workItem from="1638820813140" duration="864000" />
+      <workItem from="1638846074852" duration="399000" />
     </task>
     <servers />
   </component>
