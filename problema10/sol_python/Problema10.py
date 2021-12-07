@@ -1,28 +1,31 @@
+import lista as lista
+
 suma=float(0)
 acumulador=float(0)
 acMedia=float(0)
 bandera=True
+salida=str("")
+suma1 = 0
+columana=0
+while bandera ==True:
+    dato=float(input("Ingrese los datos que desee"))
 
-while bandera:
-        resultado=float(input("Ingrese los datos que desee"))
-
-        suma = suma + resultado
-        acumulador = acumulador +1
-        acMedia=acMedia+resultado *resultado
-
-        salida = str(input("Si desea salir del ciclo, ingrese (si)"))
-
-        if salida ==("si") :
-
-                bandera == False
+    suma = suma + dato
+    acumulador = acumulador +1
 
 
+    salida = input("Si desea salir del ciclo, ingrese si")
 
-media=float(suma + acumulador)
-varianza=float(acMedia/(resultado-1)-(suma*suma))
+    if salida == "si":
 
-print("f La media es: %.2f",media)
-print("f La varianza es : %.2f",varianza)
+        break
 
+
+media=float(suma/ acumulador)
+
+
+media=("%.2f" % media)
+
+print(f" La media es: {media}")
 
 
